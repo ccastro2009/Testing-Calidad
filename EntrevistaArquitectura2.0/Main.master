@@ -1,0 +1,17 @@
+<%@ Master Language="C#" MasterPageFile="~/Root.master" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="MainMaster" %>
+
+<%-- DXCOMMENT: Page Main.master is a master page that contains central area layout --%>
+<asp:Content ID="Content2" ContentPlaceHolderID="Content" runat="server">
+
+        <div class="contentPane">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" OnLoad="MainContent_Load" Visible="False" />
+        </div>
+            
+
+    
+<%-- DXCOMMENT: Configure the left panel's ASPxNavBar --%>
+<asp:XmlDataSource ID="XmlDataSourceLeft" runat="server" DataFile="~/App_Data/SideMenu.xml"
+    XPath="/menu/*"></asp:XmlDataSource>
+
+    
+</asp:Content>

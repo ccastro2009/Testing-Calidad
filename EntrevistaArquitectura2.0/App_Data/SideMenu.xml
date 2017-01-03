@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <group Text="Entrevista Arquitectura 2.0">
+    <item Text="Contactenos" />
+    <item Text="Acerca de" />    
+  </group> 
+</menu>

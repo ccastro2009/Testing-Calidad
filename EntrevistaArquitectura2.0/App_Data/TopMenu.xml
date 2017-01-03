@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Entrevista" NavigateUrl="~/Views/Entrevista.aspx" />
+  <item Text="Arquitectura" NavigateUrl="~/Views/Arquitectura.aspx"  />
+  <item Text="Infraestructura" NavigateUrl="~/Views/Infraestructura.aspx"  />
+  <item Text="Costos" NavigateUrl="~/Views/Costos.aspx"  />
+</items>

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\WebSites\EntrevistaArquitectura2.0\Entidad\bin\Debug\Entidad.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\WebSites\EntrevistaArquitectura2.0\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\WebSites\EntrevistaArquitectura2.0\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\WebSites\EntrevistaArquitectura2.0\Entidad\obj\Debug\Entidad.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\WebSites\EntrevistaArquitectura2.0\Entidad\obj\Debug\Entidad.pdb
